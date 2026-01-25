@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fff6d287-d203-44cc-a7a1-853464e523c1">
-  <name>Demo1</name>
+  <name>Demo2</name>
   <synonym>
     <key>ru</key>
-    <value>Demo1</value>
+    <value>Demo2</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="9d7399a8-7072-4c3e-9e97-e812381f0666"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="08aa9ddf-8149-4ca8-ae39-d9102ad89018"/>
@@ -29,7 +29,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
-  <compatibilityMode>8.3.27</compatibilityMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
   <languages uuid="e3f6761d-6069-40c1-b657-897c5521041e">
     <name>Русский</name>
     <synonym>
@@ -38,5 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonCommands>CommonCommand.НайтиПоНаименованию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
